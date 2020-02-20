@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "564113923224",
+    "firebase_url": "https://starlabs-fc0a9.firebaseio.com",
+    "project_id": "starlabs-fc0a9",
+    "storage_bucket": "starlabs-fc0a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564113923224:android:60eb46ff2a71137c0944ed",
+        "android_client_info": {
+          "package_name": "com.johnmelodyme.starlabsproductswarranty"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564113923224-j5rvinj4h6g3ppgouc1n49ehnp0n8r8p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnmelodyme.starlabsproductswarranty",
+            "certificate_hash": "a44f0a8394a2c488158030a8f9c2efac2245dbb4"
+          }
+        },
+        {
+          "client_id": "564113923224-24s2st117litt1i7h97ge8tpu2q0q2ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCX5JyaOoro8ytGJhfkXDgiqt_-zlU38Eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564113923224-24s2st117litt1i7h97ge8tpu2q0q2ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

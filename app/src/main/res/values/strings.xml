@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StarLabs Products Warranty</string>
+    <string name="Serialnumber">Serial Number: </string>
+    <string name="send">Send To Database</string>
+    <string-array name="starlabs_products">
+        <item>--Please Select a product--</item>
+        <item>Smart Sleep Device</item>
+        <item>Blood Sugar Control</item>
+        <item>Neurosound Technology</item>
+        <item>Others</item>
+    </string-array>
+</resources>
